@@ -1,0 +1,18 @@
+# AWS Credentials
+aws_access_key = ""
+aws_secret_key = ""
+region         = "" 
+
+# Hosted Zone name
+zone_name      = ""
+
+# User names
+onlywrite_user = ""
+admin_user     = ""
+
+# Bucket Name
+bucket_name   = "sftp-secure-s3"
+
+# User Keys
+onlywrite_ssh_key = ""
+admin_ssh_key     = ""
